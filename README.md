@@ -1,4 +1,5 @@
 # AfrTools
 Anti Facial Recognition Tools
 
-![afrt-1](https://github.com/RealBey/AfrTools/assets/85953451/5b50b9e0-62b2-45ee-b39c-54ccc9a44286)
+
+![afrt](https://github.com/RealBey/AfrTools/assets/85953451/757ca88e-2b20-41bf-ad75-05ef8fdcca06)
