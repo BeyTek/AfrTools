@@ -1,4 +1,4 @@
-# AfrTools
+# AFR Tools
 Anti Facial Recognition Tools
 
 
