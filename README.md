@@ -5,7 +5,13 @@ Fawkes alternative
 
 ![afrt](https://github.com/RealBey/AfrTools/assets/85953451/757ca88e-2b20-41bf-ad75-05ef8fdcca06)
 
-
+requirements:
+opencv-python
+numpy
+PySide6
+torch
+torchvision
+uuid
 
 Welcome to the presentation of AFR Tools, a versatile software designed for image privacy and security. AFR Tools is more than just an image anonymization tool. It offers a comprehensive set of features to safeguard your privacy and explore advanced image modification techniques. Here's an overview of what you can achieve with AFR Tools:
 
