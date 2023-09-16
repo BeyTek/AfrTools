@@ -6,7 +6,8 @@ Anti Facial Recognition Tools
 
 
 
-
+Windows setup :
+https://t.me/afrtools
 
 
 
