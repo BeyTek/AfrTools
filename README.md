@@ -3,7 +3,11 @@ Anti Facial Recognition Tools
 Fawkes alternative
 
 
-![afrt](https://github.com/RealBey/AfrTools/assets/85953451/757ca88e-2b20-41bf-ad75-05ef8fdcca06)
+https://github.com/RealBey/AfrTools/assets/85953451/006ec70f-11a6-4cc6-a889-dda0adaebcaa
+
+
+
+
 
 
 Welcome to the presentation of AFR Tools, a versatile software designed for image privacy and security. AFR Tools is more than just an image anonymization tool. It offers a comprehensive set of features to safeguard your privacy and explore advanced image modification techniques. Here's an overview of what you can achieve with AFR Tools:
