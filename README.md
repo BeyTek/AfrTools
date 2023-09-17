@@ -26,7 +26,6 @@ Download AFR Tools today and unlock the endless potential of image privacy and s
 
 
 Windows setup exe:
-https://t.me/afrtools
 
 [Download setup tools](https://beysantech.fr/afrtools)
 
