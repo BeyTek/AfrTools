@@ -29,6 +29,7 @@ Windows setup exe:
 
 [Download setup tools](https://beysantech.fr/afr)
 
+After installation launch as admin mode
 
 requirements:
 
