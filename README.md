@@ -6,7 +6,8 @@ Fawkes alternative
 https://github.com/RealBey/AfrTools/assets/85953451/006ec70f-11a6-4cc6-a889-dda0adaebcaa
 
 
-![picanonymizer](https://github.com/BeyTek/AfrTools/assets/85953451/4c3f3375-5cca-43b4-8199-0d6db99df586)
+
+![afrt](https://github.com/BeyTek/AfrTools/assets/85953451/b74abdeb-f021-46fb-83af-feef4a87d631)
 
 
 
